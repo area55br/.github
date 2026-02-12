@@ -1,2 +1,3 @@
-# -.github
-:octocat: Default community health/policy files for the @alias-555 organization on GitHub.
+# :octocat: .github
+
+Default community health/policy files for the @area55br organization on GitHub.
