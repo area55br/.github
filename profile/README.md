@@ -14,7 +14,7 @@ Se você curte a vida de indie hacker e prefere estar dev solo, blz. Mas se não
 Estou iniciando o desenvolvimento de um aplicativo mobile, e decidi abraçar o crowdsourcing (e também a IA). Para o caso de alguém animar participar, criei um [grupo no Telegram](https://t.me/area55br) e este projeto no GitHub. As portas estão abertas para quem já está cansado de codar sozinho e quiser fazer parte de uma comunidade de devs. 
 
 
-## 🛜&nbsp; Yo!Fi • Aplicativo para Wi-Fi Sharing
+## 🐝&nbsp; Yo!Fi • Aplicativo para Wi-Fi Sharing
 
 A ideia do primeiro aplicativo é bem simples: compartilhar acesso a Wi-Fi de pessoas físicas e jurídicas e transferir mensagens em P2P. Mas tem alguns pontos em que difere dos tradicionais apps para essa finalidade, como [WiFi Map](https://play.google.com/store/apps/details?id=io.wifimap.wifimap) e [Instabridge](https://play.google.com/store/apps/details?id=com.instabridge.android). Ainda não detalhei todas as *user stories* do app, mas vou aproveitar o feriado de carnaval para focar nisso e dar o pontapé inicial.
 
@@ -22,7 +22,7 @@ Não é algo que estou fazendo pra ficar rico, ou ter $200k de MRR. É um app be
 
 ## 🤝🏻&nbsp; Collaboration over Coordination
 
-Quem sou eu na fila do pão pra mandar em alguém, ou gerenciar trabalho dos outros. Não há patrão, gerente, scrum master, tech lead, chefe, cacique, pajé… Os trabalhos são feitos seguindo a metodologia [e**X**treme **P**rogramming](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema). Mas faz tempo que não pratico, então vou ter que revisar as práticas da XP…
+Quem sou eu na fila do pão pra mandar em alguém, ou gerenciar trabalho dos outros. Não há patrão, gerente, scrum master, tech lead, chefe, cacique, pajé… Os trabalhos são feitos seguindo a metodologia [e**X**treme **P**rogramming](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema). A XP traz a vantagem de criar um sentimento de responsabilidade compartilhada — nenhuma parte do código tem “dono”.
 
 Existem apenas 2 papeis aqui: *Product Owner* (eu né) e *Developer* (et tu?). Quem decidir participar, pode mencionar se tem alguma especialidade. Todos são bem-vindos: UX/UI Designer, Front-end Dev, Mobile Dev, Back-end Dev, Data Analytics, AI Engineer, Cloud Architect, DevOps... Mas se você faz tudo isso só na vibe, tá tudo bem.
 
