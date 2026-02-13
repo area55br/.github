@@ -4,6 +4,7 @@
 <p align="right">🗫 <a href="https://t.me/area55br">Grupo Telegram</a></p>
 
 > "Coisas incríveis nunca são feitas por uma única pessoa. São feitas por um time."
+> 
 > — Steve Jobs
 
 ## 🤗&nbsp; Bem-vindo à Área 55 🇧🇷
@@ -34,4 +35,5 @@ Então, se você não tem muito o que fazer da meia-noite às seis, [bora lá](h
 - - -
 
 > "A única felicidade da vida está na consciência de ter realizado algo de útil em benefício da comunidade."
+> 
 > — <a href="https://pt.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
