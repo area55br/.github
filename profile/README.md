@@ -10,12 +10,12 @@
 
 Se você curte a vida de indie hacker e prefere estar dev solo, blz. Mas se não curte muito, e começou a ficar desanimado por trabalhar sozinho, sem ninguém pra interagir, sem ânimo pra explicar tudo de novo pro seu [*ruber-duck*](https://en.wikipedia.org/wiki/Rubber_duck_debugging), então fazer parte de uma squad pode ajudar. Até escrevi um post sobre isso: [Uma Boa e Má Notícia para Quem Tem Medo de Perder Emprego pra IA](https://www.tabnews.com.br/teknolista/uma-boa-e-ma-noticia-para-quem-tem-medo-de-perder-emprego-pra-ia).
 
-Estou iniciando o desenvolvimento de um aplicativo mobile, e decidi abraçar o crowdsourcing (e também a IA). Para o caso de alguém animar participar, criei um [grupo no Telegram](https://t.me/area55br) e este projeto no GitHub. As portas estão abertas para quem já está cansado de codar sozinho e quiser fazer parte de uma comunidade de devs.
+Estou iniciando o desenvolvimento de um aplicativo mobile, e decidi abraçar o crowdsourcing (e também a IA). Para o caso de alguém animar participar, criei um [grupo no Telegram](https://t.me/area55br) e este projeto no GitHub. As portas estão abertas para quem já está cansado de codar sozinho e quiser fazer parte de uma comunidade de devs. 
 
 
 ## 🛜&nbsp; Yo!Fi • Aplicativo para Wi-Fi Sharing
 
-A ideia do aplicativo é bem simples: compartilhar acesso a Wi-Fi de pessoas físicas e jurídicas e transferir mensagens em P2P. Mas tem alguns pontos em que difere dos tradicionais apps para essa finalidade, como [WiFi Map](https://play.google.com/store/apps/details?id=io.wifimap.wifimap) e [Instabridge](https://play.google.com/store/apps/details?id=com.instabridge.android). Ainda não detalhei todas as *user stories* do app, mas vou aproveitar o feriado de carnaval para focar nisso e dar o pontapé inicial.
+A ideia do primeiro aplicativo é bem simples: compartilhar acesso a Wi-Fi de pessoas físicas e jurídicas e transferir mensagens em P2P. Mas tem alguns pontos em que difere dos tradicionais apps para essa finalidade, como [WiFi Map](https://play.google.com/store/apps/details?id=io.wifimap.wifimap) e [Instabridge](https://play.google.com/store/apps/details?id=com.instabridge.android). Ainda não detalhei todas as *user stories* do app, mas vou aproveitar o feriado de carnaval para focar nisso e dar o pontapé inicial.
 
 Não é algo que estou fazendo pra ficar rico, ou ter $200k de MRR. É um app bem ridículo e besta. Mas acredito que tenha chances para monetizar em algum momento. Pode ajudar a cobrir os custos de hospedagem e até sobrar um capilé para bancar alguém dedicado na manutenção do app.
 
