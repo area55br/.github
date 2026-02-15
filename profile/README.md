@@ -1,7 +1,7 @@
 ![Area 55 banner](https://raw.githubusercontent.com/area55br/.github/main/assets/profile-banner_pt.jpeg)
 <p align="center"><sup>Perguntaram pro ET de Varginha o que ele estava fazendo na praia de Copacabana. Ele respondeu:<br><i>— Meu escritório é na praia, eu tô sempre na área. Mas eu não sou dev solo, não!</i></sup></p>
 
-<p align="right">🗫 <a href="#">Grupo WhatsApp</a></p>
+<p align="right">🗫 Grupo WhatsApp</p>
 
 > "Coisas incríveis nunca são feitas por uma única pessoa. São feitas por um time."
 > 
@@ -11,7 +11,7 @@
 
 Se você curte a vida de indie hacker e prefere estar dev solo, blz. Mas se não curte muito, e começou a ficar desanimado por trabalhar sozinho, sem ninguém pra interagir, sem ânimo pra explicar tudo de novo pro seu [*ruber-duck*](https://en.wikipedia.org/wiki/Rubber_duck_debugging), então fazer parte de uma squad pode ajudar. Até escrevi um post sobre isso: [Uma Boa e Má Notícia para Quem Tem Medo de Perder Emprego pra IA](https://www.tabnews.com.br/teknolista/uma-boa-e-ma-noticia-para-quem-tem-medo-de-perder-emprego-pra-ia).
 
-Estou iniciando o desenvolvimento de um aplicativo mobile, e decidi abraçar o crowdsourcing (e também a IA). Para o caso de alguém animar participar, criei um [grupo no WhatsApp](#) e este projeto no GitHub. As portas estão abertas para quem já está cansado de codar sozinho e quiser fazer parte de uma comunidade de devs. 
+Estou iniciando o desenvolvimento de um aplicativo mobile, e decidi abraçar o crowdsourcing (e também a IA). Para o caso de alguém animar participar, criei um grupo no WhatsApp e este projeto no GitHub. As portas estão abertas para quem já está cansado de codar sozinho e quiser fazer parte de uma comunidade de devs. 
 
 
 ## 🐝&nbsp; Yo!Fi • Aplicativo para Wi-Fi Sharing
