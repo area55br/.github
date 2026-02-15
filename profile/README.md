@@ -26,7 +26,7 @@ Quem sou eu na fila do pão pra mandar em alguém, ou gerenciar trabalho dos out
 
 Existem apenas 2 papeis aqui: *Product Owner* (eu né) e *Developer* (et tu?). Quem decidir participar, pode mencionar se tem alguma especialidade. Todos e todas são bem-vindos: UX/UI Designer, Front-end Dev, Mobile Dev, Back-end Dev, Data Analytics, AI Engineer, Cloud Architect, DevOps... Mas se você faz tudo isso só na vibe, tá tudo bem.
 
-Então, se você não tem muito o que fazer da meia-noite às seis, [bora lá](https://t.me/area55br)?!
+Então, se você não tem muito o que fazer da meia-noite às seis, bora lá?!
 
 <br />
 
